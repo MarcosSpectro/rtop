@@ -2,7 +2,8 @@
 
 **Monitor de sistema interactivo para la terminal**, inspirado en `htop`, escrito en **Rust** como proyecto de aprendizaje.
 
-![Captura de pantalla](docs/screenshot.png)
+![Captura de pantalla](<img width="146" height="25" alt="image" src="https://github.com/user-attachments/assets/132ae44f-8895-49c3-b97a-2b9d021429fe" />
+)
 
 ---
 
