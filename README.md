@@ -162,6 +162,6 @@ Distribuido bajo la **licencia MIT**. Ver `LICENSE` para más detalles.
 
 ## Autor
 
-Tu Nombre — [@tusuario](https://github.com/TU_USUARIO)
+Marcos-Spectro — (https://github.com/MarcosSpectro))
 
 Proyecto de aprendizaje de Rust y sistemas Linux.
