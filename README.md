@@ -2,8 +2,7 @@
 
 **Monitor de sistema interactivo para la terminal**, inspirado en `htop`, escrito en **Rust** como proyecto de aprendizaje.
 
-![Captura de pantalla](<img width="146" height="25" alt="image" src="https://github.com/user-attachments/assets/132ae44f-8895-49c3-b97a-2b9d021429fe" />
-)
+![Captura de pantalla](docs/screenshot.png)
 
 ---
 
@@ -39,16 +38,16 @@
 
 ### Binarios precompilados (recomendado)
 
-Descarga la última versión desde [GitHub Releases](https://github.com/TU_USUARIO/rtop/releases):
+Descarga la última versión desde [GitHub Releases](https://github.com/MarcosSpectro/rtop/releases):
 
 ```bash
 # Linux x86_64
-wget https://github.com/TU_USUARIO/rtop/releases/latest/download/rtop-linux-x86_64.tar.gz
+wget https://github.com/MarcosSpectro/rtop/releases/latest/download/rtop-linux-x86_64.tar.gz
 tar -xzf rtop-linux-x86_64.tar.gz
 sudo mv rtop /usr/local/bin/
 
 # Linux ARM64 (Raspberry Pi, etc.)
-wget https://github.com/TU_USUARIO/rtop/releases/latest/download/rtop-linux-arm64.tar.gz
+wget https://github.com/MarcosSpectro/rtop/releases/latest/download/rtop-linux-arm64.tar.gz
 tar -xzf rtop-linux-arm64.tar.gz
 sudo mv rtop /usr/local/bin/
 ```
@@ -62,7 +61,7 @@ cargo install rtop
 ### Desde código fuente
 
 ```bash
-git clone https://github.com/TU_USUARIO/rtop.git
+git clone https://github.com/MarcosSpectro/rtop.git
 cd rtop
 cargo build --release
 # El binario estará en target/release/rtop
@@ -163,6 +162,6 @@ Distribuido bajo la **licencia MIT**. Ver `LICENSE` para más detalles.
 
 ## Autor
 
-Marcos-Spectro — (https://github.com/MarcosSpectro)
+MarcosSpectro — [@MarcosSpectro](https://github.com/MarcosSpectro)
 
 Proyecto de aprendizaje de Rust y sistemas Linux.
